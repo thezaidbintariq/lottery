@@ -1,1 +1,1 @@
-Lottery Contract Written in solodity
+Lottery Contract Written in solidity
